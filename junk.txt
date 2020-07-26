@@ -1,0 +1,50 @@
+<ul class="list-unstyled">
+  <li class="media">
+    <img src="images/restTemp.png" class="mr-3" style="width:10%">
+    <div class="media-body">
+      <a href="https://lit-tor-84285.herokuapp.com/" target="_blank" class="mt-0 mb-1">Gastronomic</a>
+      <h5 class="mt-0 mb-1">Restaurant Template w/Admin </h5>
+    </div>
+  </li>
+
+  <li class="media">
+    <img src="images/pegatrip.jpg" class="mr-3" style="width:10%">
+    <div class="media-body">
+      <a href="https://github.com/nextbendev/nextProject" target="_blank" class="mt-0 mb-1">Pegatrip </a>
+      <h5 class="mt-0 mb-1">NextAcademy Final Project</h5>
+    </div>
+  </li>
+
+  <li class="media">
+    <img src="images/White on Black.png" class="mr-3" style="width:10%">
+    <div class="media-body">
+      <a href="https://gastronomic.online" target="_blank" class="mt-0 mb-1">Gastronomic</a>
+      <h5 class="mt-0 mb-1">Business Page</h5>
+    </div>
+  </li>
+
+  <li class="media">
+    <img src="images/hsqueeze.jpg" class="mr-3" style="width:10%">
+    <div class="media-body">
+      <a href="https://www.heartsqueezestudio.com" target="_blank" class="mt-0 mb-1">Heart Squeeze Studio</a>
+      <h5 class="mt-0 mb-1">Web app for a Miami artist</h5>
+    </div>
+  </li>
+
+  <li class="media">
+    <div class="media-body">
+      <a href="pages/games.html" target="_blank" class="mt-0 mb-1">TicTacToe</a>
+      <h5 class="mt-0 mb-1">Game</h5>
+    </div>
+  </li>
+
+</ul>
+
+
+<div class="card" style="width:400px">
+  <div class="card-body">
+    <h4 class="card-title">John Doe</h4>
+    <p class="card-text">Some example text.</p>
+    <a href="#" class="btn btn-primary">See Profile</a>
+  </div>
+</div>
