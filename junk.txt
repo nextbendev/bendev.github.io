@@ -1,3 +1,7 @@
+#text popup
+<span class="tooltiptext" style="color: red;"> Normal enough to code.</span>
+
+
 <ul class="list-unstyled">
   <li class="media">
     <img src="images/restTemp.png" class="mr-3" style="width:10%">
